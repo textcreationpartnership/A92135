@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious message to the citizens of London, and His now and finall propositions for peace. to be forthwith published, throughout the severall wards and parishes, within the cities of London and Westminster, Middlesex, Surrey and parts adjacent. With His royall promise and grant to be by him enacted, and His further concessions and resolution to both Houses. Signed Charles Rex. Expressed in a letter from Newport October 25. 1648. Also, two letters from the nobility of Scotland, to the Kings Majesty, and the Prince of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92135</idno>
+            <idno type="STC">Wing R2370</idno>
+            <idno type="STC">Thomason E469_3</idno>
+            <idno type="STC">ESTC R205408</idno>
+            <idno type="EEBO-CITATION">99864804</idno>
+            <idno type="PROQUEST">99864804</idno>
+            <idno type="VID">162356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious message to the citizens of London, and His now and finall propositions for peace. to be forthwith published, throughout the severall wards and parishes, within the cities of London and Westminster, Middlesex, Surrey and parts adjacent. With His royall promise and grant to be by him enacted, and His further concessions and resolution to both Houses. Signed Charles Rex. Expressed in a letter from Newport October 25. 1648. Also, two letters from the nobility of Scotland, to the Kings Majesty, and the Prince of Wales.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Ruswel, W.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A summary of Charles I's positions regarding local and church governments, signed on p.5: W. Ruswel.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162356:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES GRACIOUS MESSAGE To the Citizens of LONDON, And His new and finall Propoſitions for <hi>Peace,</hi> to be forth<g ref="char:EOLhyphen"/>with publiſhed, throughout the ſeverall Wards and Pariſhes, within the <hi>Cities</hi> of <hi>London</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter, Middleſex, Surrey</hi> and parts adjacent.</p>
+            <p>With His Royall Promiſe and Grant to be by him Enacted, and His further <hi>Conceſſions</hi> and <hi>Reſolution</hi> to both Houſes.</p>
+            <p>Signed <hi>CHARLES REX.</hi>
+            </p>
+            <p>
+               <hi>Expreſsed in a Letter from Newport</hi> October 25. 1648.</p>
+            <p>Alſo, two Letters from the Nobility of <hi>Scotland,</hi> to the <hi>Kings Majesty,</hi> and the Prince of <hi>Wales.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon flanked by the English lion and Scottish unicorn, used a a printer's device</figDesc>
+            </figure>
+            <p>LONDON, Printed for ROBERT WILLIAMSON, 1648.</p>
+            <p>
+               <add>8ber y<hi rend="sup">e</hi> 27<hi rend="sup">th</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162356:2"/>
+            <pb n="1" facs="tcp:162356:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <figure>
+                        <head>C R</head>
+                        <figDesc>royal insignia</figDesc>
+                     </figure>
+                  </head>
+                  <head>HIS MAJESTIES GRACIOUS MESSAGE TO The Right Honourable, the Lord Major, Aldermen, and Common-councell of the City of <hi>LONDON.</hi>
+                  </head>
+                  <head>Expreſsed in a Letter from the <hi>Iſle of Wight,</hi> Octob. <hi>23. 1648.</hi>
+                  </head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>HIs Majeſty being deſirous to give all poſſible ſatisfaction to the Citizens of <hi>London,</hi> in all things by them deſired, that may preſerve and
+<pb n="2" facs="tcp:162356:3"/>maintain the honour and renown of that famous <hi>Me<g ref="char:EOLhyphen"/>tropolis,</hi> throughout all future Ages, deſires that he may have admittance to his Palace at <hi>Weſtminſter,</hi> to be per<g ref="char:EOLhyphen"/>ſonally amongſt them; to the end, he may the better compoſe and reconcile all differences both in Church and State, And his <hi>Maieſty</hi> hath promiſed upon his Royall Word, that for the intire love and affection He bears to the Magiſtrates and Inhabitants thereof, He will rather inlarge their Charter and priviledges, then abridge them in the leaſt; And therefore, to cleere all doubts and ſcruples that may ariſe amongſt any of the Citizens, His <hi>Majeſty</hi> hath given Directions (as is ſaid) to his Secretary, to draw up a ſatisfactory Letter to be ſent to the Lord Major, and Court of Aldermen, which as near as I can gather, conſiſteth of theſe parti<g ref="char:EOLhyphen"/>culars, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1 That his <hi>Majeſty</hi> doth look upon this City with a moſt tender eye and affection, freely forgiving all former acts whatſoever, done or executed by them, 2 That He hath given his Royall aſſent to the propo<g ref="char:EOLhyphen"/>ſition touching the ſaid city, for the confirming of all their ancient Rights, Charters, and priviledges. And 3. That His <hi>Majeſty</hi> deſireth a right underſtanding may be had of him by all his Subjects whatſoever, even from the higheſt to the loweſt, and that He deſireth nothing more then to eſtabliſh a true and laſting <hi>peace</hi> throughout all the <hi>Confines</hi> and <hi>Territories</hi> of his <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> languiſhing and bleeding <hi>Kingdoms,</hi> which <hi>God</hi> grant may be ſpeedily faciliated and effected.</p>
+                  <p>Theſe particulars are ſaid to be drawn up into form and then preſented to the view of the <hi>Citizens,</hi> a Bre<g ref="char:EOLhyphen"/>viate
+<pb n="3" facs="tcp:162356:3"/>whereof I thought meet to communicate, as the fore-runner and meſſenger of ſo gracious tydings.</p>
+                  <p>His <hi>Majesty</hi> hath given in his finall anſwer touching <hi>Church-Government,</hi> (a copy whereof I have here in<g ref="char:EOLhyphen"/>ſerted and upon hi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> delivery thereof to the <hi>Commiſſio<g ref="char:EOLhyphen"/>ners,</hi> laid his hand upon his heart, and vowed He could go no further in honour and conſcience. After reading the ſame, one of the Parliaments <hi>Commiſſioners</hi> decla<g ref="char:EOLhyphen"/>red to his <hi>Majeſty</hi> that he doubted it would not be ſa<g ref="char:EOLhyphen"/>tisfactory, his <hi>Majeſty</hi> replied, that if his two Houſes, would concur with him therein, he knew the worſt on't, ſaying. <hi>I must return to Carisbrook Caſtle, and my ſubiects remain involved in a Labyrinth of ſorrow.</hi> Here hath been little done ſince Saturday, yet as much as was expected, till the pleaſure of both Houſes be known touching this enſuing anſwer, in relation to E<g ref="char:EOLhyphen"/>piſcopacy.</p>
+                  <p>That albeit, for the reaſons expreſſed in his former paper, he cannot conſent to a Bill for aboliſhing Bi<g ref="char:EOLhyphen"/>ſhops, yet he will conſent to a Bill for taking away of all Arch-biſhops, Chancellors, and all other their Of<g ref="char:EOLhyphen"/>ficers out of the Church of <hi>England,</hi> Dominion of <hi>VVales,</hi> and out of the church of <hi>Ireland.</hi>
+                  </p>
+                  <p>And his Maj. will conſent to ſuſpend the exerciſe of all Epiſpocal Government for the ſpace of 3 yeares; and hath conſented, and will conſent to confirme the Form of Church Government now prefented to Him for the ſaid 3 years, and that no othar ſhal be uſed du<g ref="char:EOLhyphen"/>ring that time. In which time his <hi>Maj.</hi> continues his deſire, that a conſultation may be had with the Aſſem<g ref="char:EOLhyphen"/>bly of Divines at <hi>Westminster</hi> 20 of his own nomi<g ref="char:EOLhyphen"/>nation being added to the end, that his <hi>Maj.</hi> and his two
+<pb n="4" facs="tcp:162356:4"/>Houſes may within thoſe 3 years informe themſelves of the practiſe of the primitive Church in point of Epiſcopacy, and may accordingly agree in limiting the Biſhops to the councell and aſſiſtance of Presby<g ref="char:EOLhyphen"/>ters if it be thought fit. And his <hi>Maj.</hi> will conſent that in caſe no ſettlement ſhal be agreed on within the ſaid 3 years, That after the ſaid time, the power of Ordina<g ref="char:EOLhyphen"/>tion ſhall not be exerciſed by Biſhops without the Councel, and Aſſiſtance of presbyters. And that no o<g ref="char:EOLhyphen"/>ther Epiſcopal Juriſdiction ſhall be exerciſed by Bi<g ref="char:EOLhyphen"/>ſhops, but ſuch and in ſuch manner as ſhal be agreed on by his <hi>Majeſty</hi> and both <hi>Houſes.</hi> And his <hi>Maj.</hi> doth pro<g ref="char:EOLhyphen"/>feſſe That, if in that time he be convinced, that the fun<g ref="char:EOLhyphen"/>ction of Biſhops is not agreeable to the Word of God or that Chriſt commanded any other Government, he will moſt cheerfully embrace that, and take away E<g ref="char:EOLhyphen"/>piſcopacy.</p>
+                  <closer>
+                     <signed>Subſcribed <hi>CHARLES R.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Anſwer (it is hoped) will give great ſatisfa<g ref="char:EOLhyphen"/>ction to his two Houſes of <hi>Parliament.</hi> For, indeed I his Majeſty hath in effect already granted all that is deſired, only he deſires that there may not be too ri<g ref="char:EOLhyphen"/>gorous proceedings againſt Delinquents, &amp; that ſome thing may be altered in the Bill for aboliſhing of E<g ref="char:EOLhyphen"/>piſcopacy, yet hath he in generall conſented to Deans, Chapters, and Chancellors.</p>
+            <p>And as for the form of Church Government, His Majeſty is contented that the Presbytery Government expreſſed in the Bill be eſtabliſhed for the time limi<g ref="char:EOLhyphen"/>ted, and no other exerciſed; neither ſhall any other Government after the three yeares be exerciſed, but
+<pb n="5" facs="tcp:162356:4"/>ſuch and in ſuch manner, as ſhall be agreed on by him and his two Houſes.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And therefore his Majeſty propounds, that he may forthwith come to <hi>London</hi> in honour, freedome, and ſafety, as alſo that ſome mitigation may be made con<g ref="char:EOLhyphen"/>cerning Delinquents in the firſt qualification.</p>
+            <p>And hath further conſented to theſe particulars fol<g ref="char:EOLhyphen"/>lowing.
+<list>
+                  <item>1 That the nomination of the great Officers of the <hi>Kingdom</hi> be as is deſired in the propoſition, during the term of ten years.</item>
+                  <item>2 His Majeſty conſents that the City of <hi>London</hi> ſhall enjoy their ancient Rights and priviledges, as is deſired.</item>
+                  <item>3 That the Court of Wards be taken away; provi<g ref="char:EOLhyphen"/>ded that his Majeſty may be aſſured of 100000 <hi>li. per annum,</hi> to Him, his Heires, and Succeſſors.</item>
+                  <item>4 His Majeſty doth fully condeſcend to the Bill for making void all Honours by him confirmed under the Great Seal, after it was ſurruptitiouſly carryed away from the Parliament.</item>
+               </list>
+            </p>
+            <p>Thus having given you the moſt materiall paſſages touching the <hi>Treaty,</hi> I remain</p>
+            <closer>
+               <signed>Your Honoure devoted ſervant, <hi>W. RUSWEL.</hi>
+               </signed>
+               <dateline>Newport <date>25 Octob. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>The Parliaments Votes concerning his Majeſty.</head>
+               <p>
+                  <hi>REſolved, &amp;c.</hi> That they conceive his Majeſties An<g ref="char:EOLhyphen"/>ſwer to the <hi>Church</hi> in part ſatisfactory.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That 50000. l. <hi>per annum,</hi> be given to his Majeſty, and his Succeſſours, in lieu of the <hi>Court of VVards.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="summary_of_letters">
+            <pb n="6" facs="tcp:162356:5"/>
+            <head>Heads of two Letters to be ſent from the Kingdome of <hi>Scotland,</hi> to the Kings Maieſty, and the Prince of <hi>Wales.</hi>
+            </head>
+            <p>THat they humbly beſeech his <hi>Maieſtie</hi> to hearken to the advice of the Parliament of <hi>England,</hi> in conſenting to the Propoſitions of both <hi>Kingdoms,</hi> and ſpecially to thoſe concerning the <hi>Covenant,</hi> and Refor<g ref="char:EOLhyphen"/>mation of Religion, which they underſtand to be the point he ſticks moſt at. 2 That they are bound in ho<g ref="char:EOLhyphen"/>nour and intereſt to maintain the ſame. And 3. That without which, they tell him his <hi>Throne</hi> cannot be e<g ref="char:EOLhyphen"/>ſtabliſhed in righteouſneſſe and truth. They have alſo writ to the Prince, dehorting him from that courſe of oppoſition he is in, and from attempting any act of ho<g ref="char:EOLhyphen"/>ſtility againſt their <hi>Kingdom</hi> and that he would apply his endeavours to mediate with his Father, that He would conſent to the propoſitions of both <hi>Kingdomes,</hi> and ſign the <hi>Covenant.</hi>
+            </p>
+            <p>Theſe Letters are to be communicated to the Re<g ref="char:EOLhyphen"/>preſentatives at <hi>Weſtminſter,</hi> by Sir <hi>John Cheeſly,</hi> and ſo tranſmitted to his <hi>Maiesty,</hi> and the Prince of <hi>Wales.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
